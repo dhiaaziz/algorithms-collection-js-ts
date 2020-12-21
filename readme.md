@@ -8,6 +8,6 @@ Table of contents
 - ...
 
 
-The algorithm will be explained on "readme.md" file in each folder.
+The algorithms will be explained on "readme.md" file in each folder.
 
 The demo: https://demo.dhiaaziz.com/algorithms
